@@ -1,4 +1,4 @@
-![Banner Image](https://github.com/victorsfranco/victorsfranco/blob/master/profile_readme.png)
+![Banner Image](https://github.com/victorsfranco/victorsfranco/blob/main/profile_readme.png)
 
 ## Hi there 👋
 
