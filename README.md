@@ -10,7 +10,7 @@ I am **Victor Franco**, working as **Technical Support** and an aspiring develop
 ---
 
 - 🔭 I’m currently working as **Technical Support** at **KOTHE S.A**
-- 💡 I’m currently learning **JavaScript** and **SQL**
+- 💡 I’m currently learning **HTML**, **CSS** and **JavaScript**.
 - 🤝 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
-  **[Email](mailto:victorsfranco@outlook.com), [Instagram](https://www.instagram.com/victor.s.franco/)**
+  **[Email](mailto:francovictor.dev@gmail.com), [Instagram](https://www.instagram.com/victor.s.franco/)**
