@@ -13,4 +13,4 @@ I am **Victor Franco**, working as **Technical Support** and an aspiring develop
 - 💡 I’m currently learning **HTML**, **CSS** and **JavaScript**.
 - 🤝 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
-  **[Email](mailto:francovictor.dev@gmail.com), [Instagram](https://www.instagram.com/victor.s.franco/)**
+  **[Email](mailto:francovictor.dev@gmail.com), [Linkedin] (https://www.linkedin.com/in/victorsfranco/), [Instagram](https://www.instagram.com/victor.s.franco/)**
