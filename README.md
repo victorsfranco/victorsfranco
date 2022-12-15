@@ -10,7 +10,7 @@ I am **Victor Franco**, working as **Technical Support** and an aspiring fronten
 ---
 
 - 🔭 I’m currently working as **Technical Support** at **KOTHE S.A**
-- 💡 I’m currently learning **HTML**, **CSS** and **JavaScript**.
+- 💡 I’m currently learning **JavaScript** and **React.js**.
 - 🤝 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   **[Email](mailto:francovictor.dev@gmail.com), [Linkedin](https://www.linkedin.com/in/victorsfranco/), [Instagram](https://www.instagram.com/victor.s.franco/)**
