@@ -10,7 +10,7 @@ I am **Victor Franco**, and I'm working as **Trainee Full Stack Developer**. I'm
 ---
 
 - 🔭 I’m currently working as **Full Stack Web Developer** at **RHAIMES**
-- 💡 I’m currently learning **JavaScript** and **React.js**.
+- 💡 I’m currently learning **TypeScript** and **React.js**.
 - 🤝 I’m looking to collaborate on open source/commercial projects
 - 📫 How to reach me:
   **[Email](mailto:francovictor.dev@gmail.com), [Linkedin](https://www.linkedin.com/in/victorsfranco/), [Instagram](https://www.instagram.com/victor.s.franco/)**
