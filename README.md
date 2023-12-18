@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am **Victor Franco**, and I'm working as **Trainee Full Stack Developer** at **RHAIMES**. <br> <br>
+I am **Victor Franco**, and I'm working as **Full Stack Developer** at **ORUL Tech**. <br> <br>
 I'm a programming student and technology lover. I want to contribute to open source and commercial projects, where I will face new challenges and do my best to keep myself constantly growing and learning! 🚀
 ##
 
