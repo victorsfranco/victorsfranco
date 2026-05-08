@@ -1,7 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
-
 <p align="center">
-  I am <strong>Victor Franco</strong>, and I'm working as <strong>Full Stack Developer</strong> at <strong>ORUL Tech</strong>.<br/>
+  I am <strong>Victor Franco</strong>, and I'm working as <strong>Full Stack Developer</strong> at <a href="https://orul.tech" target="_blank" rel="noreferrer"><strong>ORUL Tech</strong></a>.<br/>
   I'm a programming student and technology lover. I want to contribute to open source and commercial projects,
   where I will face new challenges and do my best to keep myself constantly growing and learning! 🚀
 </p>
