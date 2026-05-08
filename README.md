@@ -1,7 +1,9 @@
-<h1 align="center">Hi there 👋, I'm Victor Franco</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  Full Stack Developer at <strong>ORUL Tech</strong> · passionate about open source, clean architecture and always learning 🚀
+  I am <strong>Victor Franco</strong>, and I'm working as <strong>Full Stack Developer</strong> at <strong>ORUL Tech</strong>.<br/>
+  I'm a programming student and technology lover. I want to contribute to open source and commercial projects,
+  where I will face new challenges and do my best to keep myself constantly growing and learning! 🚀
 </p>
 
 ---
@@ -16,7 +18,17 @@
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/-Victor%20Franco-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/victorsfranco)
-[![Instagram](https://img.shields.io/badge/-victor.s.franco-gray?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/victor.s.franco/)
-[![Gmail](https://img.shields.io/badge/-francovictor.dev@gmail.com-white?style=flat-square&logo=Gmail&logoColor=red)](mailto:francovictor.dev@gmail.com)
-[![GitHub](https://img.shields.io/github/followers/victorsfranco?label=Follow&style=social)](https://github.com/victorsfranco)
+<p align="left">
+  <a href="https://linkedin.com/in/victorsfranco">
+    <img src="https://img.shields.io/static/v1?label=&message=Victor%20Franco&color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:francovictor.dev@gmail.com">
+    <img src="https://img.shields.io/badge/-francovictor.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/victorsfranco">
+    <img src="https://img.shields.io/badge/-victorsfranco-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/victor.s.franco/">
+    <img src="https://img.shields.io/badge/-victor.s.franco-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
